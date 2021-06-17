@@ -1,0 +1,52 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    text-align: center;
+    background-image: url('/Clase-7/img/condensation-water-drops-transparent_107791-6308.jpg');
+    background-size:unset;
+    background-size: 300px;
+}
+
+.img {
+    height: 190px;
+    margin-bottom: 0px;
+}
+
+.CV {
+    text-align: center;
+    background-color:rgba(112, 135, 197, 0.829);
+    padding: 5px;
+}
+
+.bloque-principal {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.bloques h2 {
+    background-color:rgba(112, 135, 197, 0.445);
+    padding: 5px;
+}
+
+
+.custom-text {
+    font-style: italic;
+}
+
+.second-line {
+
+    padding-left: 85px;
+}
+footer{
+    background-color:rgba(112, 135, 197, 0.829);
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.icons{
+    height: 40px;
+    width: 40px;
+}

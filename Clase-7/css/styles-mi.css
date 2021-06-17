@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.main-info {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2 {
+    font-style: italic;
+}
+
+p, li {
+    text-align: justify;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+.back-button {
+    text-align: center;
+    
+    padding: 15px 32px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.back-button:hover {
+    background-color:rgba(112, 135, 197, 0.829);
+    color: white;
+}
