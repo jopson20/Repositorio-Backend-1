@@ -4,7 +4,7 @@ body {
 
 .header {
     text-align: center;
-    background-image: url('/Clase-7/img/condensation-water-drops-transparent_107791-6308.jpg');
+    background-image: url('/img/condensation-water-drops-transparent_107791-6308.jpg');
     background-size:unset;
     background-size: 300px;
 }
@@ -40,6 +40,11 @@ body {
 
     padding-left: 85px;
 }
+
+.globant {
+    padding-left: 115px;
+}
+
 footer{
     background-color:rgba(112, 135, 197, 0.829);
     text-align: center;
